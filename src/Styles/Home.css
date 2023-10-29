@@ -1,0 +1,26 @@
+.Home {
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+}
+
+.Header {   
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.Container {
+    justify-content: center;
+}
+
+.Box {
+    border: 3px solid;
+    border-color: black;
+    display: inline-flex;
+    margin: 3%;
+    border-radius: 20px;
+    width: 320px;
+    height: 400px;
+    justify-content: center;
+}
